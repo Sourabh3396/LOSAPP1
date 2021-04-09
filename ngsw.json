@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1617951592121,
+  "timestamp": 1617952146667,
   "index": "/LOSAPP1/index.html",
   "assetGroups": [
     {
@@ -14,26 +14,6 @@
         "/LOSAPP1/4.d1a7444a0d2cd2bd9e1e.js",
         "/LOSAPP1/5.e2411fb3d408ee93d1ad.js",
         "/LOSAPP1/6.48e0d22d572ac88e5e9c.js",
-        "/LOSAPP1/favicon.ico",
-        "/LOSAPP1/index.html",
-        "/LOSAPP1/main.901ce03d01a6971cc6be.js",
-        "/LOSAPP1/manifest.webmanifest",
-        "/LOSAPP1/my-service-worker.js",
-        "/LOSAPP1/polyfills.94daefd414b8355106ab.js",
-        "/LOSAPP1/runtime.4e46179d9977898ab9fa.js",
-        "/LOSAPP1/scripts.95f0518e13930773d5a6.js",
-        "/LOSAPP1/styles.269d320e5b3ec7b540a7.css"
-      ],
-      "patterns": []
-    },
-    {
-      "name": "assets",
-      "installMode": "lazy",
-      "updateMode": "prefetch",
-      "cacheQueryOptions": {
-        "ignoreVary": true
-      },
-      "urls": [
         "/LOSAPP1/assets/Offline/bootstrap/js/bootstrap.bundle.js",
         "/LOSAPP1/assets/Offline/bootstrap/js/bootstrap.bundle.js.map",
         "/LOSAPP1/assets/Offline/bootstrap/js/bootstrap.bundle.min.js",
@@ -106,6 +86,26 @@
         "/LOSAPP1/assets/Offline/js/pages/dashboard2.js",
         "/LOSAPP1/assets/Offline/js/pages/dashboard3.js",
         "/LOSAPP1/assets/Offline/offline1.html",
+        "/LOSAPP1/favicon.ico",
+        "/LOSAPP1/index.html",
+        "/LOSAPP1/main.901ce03d01a6971cc6be.js",
+        "/LOSAPP1/manifest.webmanifest",
+        "/LOSAPP1/my-service-worker.js",
+        "/LOSAPP1/polyfills.94daefd414b8355106ab.js",
+        "/LOSAPP1/runtime.4e46179d9977898ab9fa.js",
+        "/LOSAPP1/scripts.95f0518e13930773d5a6.js",
+        "/LOSAPP1/styles.269d320e5b3ec7b540a7.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
         "/LOSAPP1/assets/icons/icon-128x128.png",
         "/LOSAPP1/assets/icons/icon-144x144.png",
         "/LOSAPP1/assets/icons/icon-152x152.png",
