@@ -12,7 +12,7 @@ self.addEventListener('fetch', function (event) {
                 // console.error("[onfetch] Failed. Serving cached offline fallback");
 
                 // return offline page from cache instead
-                return caches.match("/LOSAPP1/assets/offline1.html");
+                return caches.match("/LOSAPP1/assets/Offline/offline1.html");
             }));
     }
 });
